@@ -131,10 +131,10 @@ TextureImporter:
       name: leftwalk_0
       rect:
         serializedVersion: 2
-        x: 11
-        y: 0
-        width: 342
-        height: 1024
+        x: 57
+        y: 562
+        width: 304
+        height: 407
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -153,10 +153,10 @@ TextureImporter:
       name: leftwalk_1
       rect:
         serializedVersion: 2
-        x: 391
-        y: 1
-        width: 339
-        height: 459
+        x: 437
+        y: 564
+        width: 281
+        height: 407
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -175,10 +175,10 @@ TextureImporter:
       name: leftwalk_2
       rect:
         serializedVersion: 2
-        x: 478
-        y: 389
-        width: 252
-        height: 635
+        x: 820
+        y: 564
+        width: 281
+        height: 407
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -197,10 +197,10 @@ TextureImporter:
       name: leftwalk_3
       rect:
         serializedVersion: 2
-        x: 830
-        y: 0
-        width: 683
-        height: 1024
+        x: 1202
+        y: 563
+        width: 281
+        height: 406
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -219,10 +219,10 @@ TextureImporter:
       name: leftwalk_4
       rect:
         serializedVersion: 2
-        x: 895
-        y: 72
-        width: 223
-        height: 384
+        x: 361
+        y: 53
+        width: 280
+        height: 431
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -241,12 +241,12 @@ TextureImporter:
       name: leftwalk_5
       rect:
         serializedVersion: 2
-        x: 1246
-        y: 496
-        width: 259
-        height: 500
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 871
+        y: 77
+        width: 280
+        height: 410
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -263,7 +263,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 1fca34b4f18cfac4b89134fa7668f6d4
     internalID: 0
     vertices: []
     indices: 
