@@ -1,4 +1,5 @@
 using UnityEngine;
+using Unity.Cinemachine;
 
 public class PlayerController : MonoBehaviour
 {
@@ -14,6 +15,14 @@ public class PlayerController : MonoBehaviour
     {
         rigid = GetComponent<Rigidbody2D>();//Rigidbody2D 컴포넌트 가져오기
         anim = GetComponent<Animator>(); //Animator 컴포넌트 가져오기
+
+        //플레이어 추적 카메라 가져오기
+        CinemachineCamera vcam = FindFirstObjectByType<CinemachineCamera>();
+
+        if (vcam != null)
+        {
+            vcam.Follow = transform;
+        }
     }
 
     void Update()

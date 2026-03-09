@@ -1,4 +1,6 @@
 using UnityEngine;
+using UnityEngine.SceneManagement;
+using Unity.Cinemachine;
 
 public class PlayerManager : MonoBehaviour
 {
@@ -22,5 +24,29 @@ public class PlayerManager : MonoBehaviour
         
         // 씬이 넘어가도 파괴되지 않게 설정
         DontDestroyOnLoad(gameObject);
+    }
+
+    void OnEnable()
+    {
+        //씬이 바뀔 때마다 OnSceneLoaded함수 실행
+        SceneManager.sceneLoaded += OnSceneLoaded;
+    }
+
+    void OnDisable()
+    {
+        //메모리 누수 방지로 오브젝트 비활성화 될 때 해제
+        SceneManager.sceneLoaded -= OnSceneLoaded;
+    }
+
+    void OnSceneLoaded(Scene scene, LoadSceneMode mode)
+    {   
+        //현재 씬의 CinemachineCamera찾기
+        var vcam = FindFirstObjectByType<CinemachineCamera>();
+
+        if (vcam != null)
+        {
+            //현재 이 스크립트가 붙어있는 Player를 따라가도록 설정
+            vcam.Follow = transform;
+        }
     }
 }
