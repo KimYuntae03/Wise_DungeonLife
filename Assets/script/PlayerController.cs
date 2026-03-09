@@ -19,10 +19,13 @@ public class PlayerController : MonoBehaviour
         inputVec.x = Input.GetAxisRaw("Horizontal");
         inputVec.y = Input.GetAxisRaw("Vertical");
 
-        //입력값에 따른 애니메이터 파라미터 업데이트
-        anim.SetFloat("InputX", inputVec.x);
-        anim.SetFloat("InputY", inputVec.y);
-        anim.SetFloat("Speed", inputVec.magnitude);
+        anim.SetFloat("Speed", inputVec.sqrMagnitude);
+        
+        if (inputVec.magnitude != 0){
+            //입력값에 따른 애니메이터 파라미터 업데이트
+            anim.SetFloat("InputX", inputVec.x);
+            anim.SetFloat("InputY", inputVec.y);
+        }
     }
 
     void FixedUpdate()
