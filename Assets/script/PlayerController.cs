@@ -6,6 +6,7 @@ public class PlayerController : MonoBehaviour
     public Vector2 inputVec;
     public float speed;
     public float runSpeed;
+    bool isSwordEquipped = false;//칼 장착상태 여부 체크
 
     Rigidbody2D rigid;
     Animator anim;
@@ -26,7 +27,13 @@ public class PlayerController : MonoBehaviour
     }
 
     void Update()
-    {
+    {   
+        if (Input.GetKeyDown(KeyCode.R)) //임시로 R키 누르면 칼 획득
+        {
+            isSwordEquipped = !isSwordEquipped; // 상태 반전
+            anim.SetBool("isSword", isSwordEquipped); // 애니메이터 파라미터 업데이트
+        }
+
         inputVec.x = Input.GetAxisRaw("Horizontal");
         inputVec.y = Input.GetAxisRaw("Vertical");
 
