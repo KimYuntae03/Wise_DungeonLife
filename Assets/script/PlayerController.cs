@@ -34,6 +34,12 @@ public class PlayerController : MonoBehaviour
             anim.SetBool("isSword", isSwordEquipped); // 애니메이터 파라미터 업데이트
         }
 
+        if (Input.GetKeyDown(KeyCode.A) && isSwordEquipped) //공격
+        {
+            anim.SetTrigger("doAttack");
+        }
+
+
         inputVec.x = Input.GetAxisRaw("Horizontal");
         inputVec.y = Input.GetAxisRaw("Vertical");
 

@@ -1285,7 +1285,7 @@ PrefabInstance:
     - target: {fileID: 3568302866246585151, guid: 72443a289db80ac4bbb6655c0ed4e22b, type: 3}
       propertyPath: shopUI
       value: 
-      objectReference: {fileID: 1750956302}
+      objectReference: {fileID: 1923899713}
     - target: {fileID: 7367347813448465144, guid: 72443a289db80ac4bbb6655c0ed4e22b, type: 3}
       propertyPath: m_Name
       value: Merchant
@@ -1295,11 +1295,6 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 72443a289db80ac4bbb6655c0ed4e22b, type: 3}
---- !u!1 &1750956302 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 3266340150508028585, guid: 72443a289db80ac4bbb6655c0ed4e22b, type: 3}
-  m_PrefabInstance: {fileID: 1530762340}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1923899713
 GameObject:
   m_ObjectHideFlags: 0
