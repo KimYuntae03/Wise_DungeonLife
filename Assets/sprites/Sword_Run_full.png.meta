@@ -1,79 +1,103 @@
 fileFormatVersion: 2
-guid: b065cfc2df2a5974e8bde00205c58605
+guid: 0e8c830b5ebbb024b97054423d247393
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -3753571692780152623
-    second: Sword_Walk_full_0
+      213: 9115605762361566855
+    second: Sword_Run_full_0
   - first:
-      213: 174744635857476160
-    second: Sword_Walk_full_1
+      213: -6173353920823168819
+    second: Sword_Run_full_1
   - first:
-      213: 339361470264715312
-    second: Sword_Walk_full_2
+      213: -8112950969915983394
+    second: Sword_Run_full_2
   - first:
-      213: -4496459094149819902
-    second: Sword_Walk_full_3
+      213: 960495837419604047
+    second: Sword_Run_full_3
   - first:
-      213: 6127571963063765637
-    second: Sword_Walk_full_4
+      213: 439155344071214752
+    second: Sword_Run_full_4
   - first:
-      213: -8640647181836074670
-    second: Sword_Walk_full_5
+      213: -9112270784880746051
+    second: Sword_Run_full_5
   - first:
-      213: -3160287381127770087
-    second: Sword_Walk_full_6
+      213: -9182051909758612434
+    second: Sword_Run_full_6
   - first:
-      213: -1265255348948229123
-    second: Sword_Walk_full_7
+      213: 2334066188345651562
+    second: Sword_Run_full_7
   - first:
-      213: 1876094137375402060
-    second: Sword_Walk_full_8
+      213: 5812720159088080610
+    second: Sword_Run_full_8
   - first:
-      213: -8597557867071635585
-    second: Sword_Walk_full_9
+      213: 5535760694211273764
+    second: Sword_Run_full_9
   - first:
-      213: -5019036444791416530
-    second: Sword_Walk_full_10
+      213: 3751213979948485901
+    second: Sword_Run_full_10
   - first:
-      213: 2257747179698800594
-    second: Sword_Walk_full_11
+      213: 8051616686044181645
+    second: Sword_Run_full_11
   - first:
-      213: 2161552777983971754
-    second: Sword_Walk_full_12
+      213: 4652296503083377406
+    second: Sword_Run_full_12
   - first:
-      213: -3396722199275710985
-    second: Sword_Walk_full_13
+      213: -125529731464440744
+    second: Sword_Run_full_13
   - first:
-      213: -3129530660451690395
-    second: Sword_Walk_full_14
+      213: -3311222855801231915
+    second: Sword_Run_full_14
   - first:
-      213: -8787243275020414368
-    second: Sword_Walk_full_15
+      213: -1433125498964836916
+    second: Sword_Run_full_15
   - first:
-      213: -3557182983658212280
-    second: Sword_Walk_full_16
+      213: -8221081746750982563
+    second: Sword_Run_full_16
   - first:
-      213: -1926613412790255185
-    second: Sword_Walk_full_17
+      213: -7734456764368953306
+    second: Sword_Run_full_17
   - first:
-      213: -351140954603270303
-    second: Sword_Walk_full_18
+      213: 2617599428229034899
+    second: Sword_Run_full_18
   - first:
-      213: 8489096472525423403
-    second: Sword_Walk_full_19
+      213: -8161230534867783063
+    second: Sword_Run_full_19
   - first:
-      213: 6356075865754210871
-    second: Sword_Walk_full_20
+      213: -4395760758590334510
+    second: Sword_Run_full_20
   - first:
-      213: 7247223439734145427
-    second: Sword_Walk_full_21
+      213: 5796373176821042186
+    second: Sword_Run_full_21
   - first:
-      213: 6115231237820167590
-    second: Sword_Walk_full_22
+      213: 1096292673231906590
+    second: Sword_Run_full_22
   - first:
-      213: 3195601876174496991
-    second: Sword_Walk_full_23
+      213: -5536285989144288197
+    second: Sword_Run_full_23
+  - first:
+      213: 2224695350000399578
+    second: Sword_Run_full_24
+  - first:
+      213: -692555917794236058
+    second: Sword_Run_full_25
+  - first:
+      213: -1206783693473764446
+    second: Sword_Run_full_26
+  - first:
+      213: -5892701902021859107
+    second: Sword_Run_full_27
+  - first:
+      213: 6335989728523685439
+    second: Sword_Run_full_28
+  - first:
+      213: -869385091698357596
+    second: Sword_Run_full_29
+  - first:
+      213: -3893102408218215742
+    second: Sword_Run_full_30
+  - first:
+      213: 9184993923268791615
+    second: Sword_Run_full_31
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -182,34 +206,12 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Sword_Walk_full_0
+      name: Sword_Run_full_0
       rect:
         serializedVersion: 2
-        x: 20
-        y: 211
-        width: 18
-        height: 22
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 1d890e4ce62a8ebc0800000000000000
-      internalID: -3753571692780152623
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Sword_Walk_full_1
-      rect:
-        serializedVersion: 2
-        x: 84
+        x: 19
         y: 212
-        width: 18
+        width: 19
         height: 23
       alignment: 7
       pivot: {x: 0.5, y: 0}
@@ -219,18 +221,40 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 04a90ba0251dc6200800000000000000
-      internalID: 174744635857476160
+      spriteID: 786a012f423218e70800000000000000
+      internalID: 9115605762361566855
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Sword_Walk_full_2
+      name: Sword_Run_full_1
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 212
+        width: 18
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc0f19c1157d35aa0800000000000000
+      internalID: -6173353920823168819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword_Run_full_2
       rect:
         serializedVersion: 2
         x: 148
-        y: 211
+        y: 212
         width: 18
         height: 23
       alignment: 7
@@ -241,20 +265,64 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 038259d8577a5b400800000000000000
-      internalID: 339361470264715312
+      spriteID: ed93ffdb312096f80800000000000000
+      internalID: -8112950969915983394
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Sword_Walk_full_3
+      name: Sword_Run_full_3
       rect:
         serializedVersion: 2
         x: 213
+        y: 213
+        width: 19
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4803ad00ed545d00800000000000000
+      internalID: 960495837419604047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword_Run_full_4
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 212
+        width: 18
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a6449c6571381600800000000000000
+      internalID: 439155344071214752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword_Run_full_5
+      rect:
+        serializedVersion: 2
+        x: 341
         y: 211
         width: 18
-        height: 22
+        height: 20
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -263,19 +331,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 2021022f64e5991c0800000000000000
-      internalID: -4496459094149819902
+      spriteID: db163020006ba8180800000000000000
+      internalID: -9112270784880746051
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Sword_Walk_full_4
+      name: Sword_Run_full_6
       rect:
         serializedVersion: 2
-        x: 278
+        x: 405
         y: 212
-        width: 17
+        width: 18
         height: 23
       alignment: 7
       pivot: {x: 0.5, y: 0}
@@ -285,20 +353,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 58a0f023c32890550800000000000000
-      internalID: 6127571963063765637
+      spriteID: e2c04a9cf6cc29080800000000000000
+      internalID: -9182051909758612434
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Sword_Walk_full_5
+      name: Sword_Run_full_7
       rect:
         serializedVersion: 2
-        x: 342
-        y: 211
-        width: 17
-        height: 23
+        x: 468
+        y: 215
+        width: 18
+        height: 21
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -307,61 +375,17 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 2514e211b21461880800000000000000
-      internalID: -8640647181836074670
+      spriteID: a61b796f4d4446020800000000000000
+      internalID: 2334066188345651562
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Sword_Walk_full_6
+      name: Sword_Run_full_8
       rect:
         serializedVersion: 2
-        x: 25
-        y: 148
-        width: 13
-        height: 22
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 910dabbee576424d0800000000000000
-      internalID: -3160287381127770087
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Sword_Walk_full_7
-      rect:
-        serializedVersion: 2
-        x: 88
-        y: 148
-        width: 14
-        height: 24
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: df327c7b6f8e07ee0800000000000000
-      internalID: -1265255348948229123
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Sword_Walk_full_8
-      rect:
-        serializedVersion: 2
-        x: 150
+        x: 23
         y: 148
         width: 16
         height: 23
@@ -373,20 +397,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: c48247f8da9390a10800000000000000
-      internalID: 1876094137375402060
+      spriteID: 2e67235003eeaa050800000000000000
+      internalID: 5812720159088080610
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Sword_Walk_full_9
+      name: Sword_Run_full_9
       rect:
         serializedVersion: 2
-        x: 215
+        x: 87
         y: 148
         width: 15
-        height: 22
+        height: 19
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -395,17 +419,17 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f7f7455fba65fa880800000000000000
-      internalID: -8597557867071635585
+      spriteID: 424680c8509f2dc40800000000000000
+      internalID: 5535760694211273764
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Sword_Walk_full_10
+      name: Sword_Run_full_10
       rect:
         serializedVersion: 2
-        x: 280
+        x: 152
         y: 148
         width: 14
         height: 23
@@ -417,20 +441,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: e29d77902fcc85ab0800000000000000
-      internalID: -5019036444791416530
+      spriteID: d0d0f4f6d3dfe0430800000000000000
+      internalID: 3751213979948485901
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Sword_Walk_full_11
+      name: Sword_Run_full_11
       rect:
         serializedVersion: 2
-        x: 344
-        y: 148
+        x: 216
+        y: 150
         width: 14
-        height: 24
+        height: 23
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -439,18 +463,150 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 2d7469e0911255f10800000000000000
-      internalID: 2257747179698800594
+      spriteID: d84754777b61dbf60800000000000000
+      internalID: 8051616686044181645
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Sword_Walk_full_12
+      name: Sword_Run_full_12
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 148
+        width: 13
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef2a3184507409040800000000000000
+      internalID: 4652296503083377406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword_Run_full_13
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 148
+        width: 13
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 854df43df57024ef0800000000000000
+      internalID: -125529731464440744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword_Run_full_14
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 148
+        width: 13
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d520d33b5c2c02d0800000000000000
+      internalID: -3311222855801231915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword_Run_full_15
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 150
+        width: 15
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccd75a3a3f38c1ce0800000000000000
+      internalID: -1433125498964836916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword_Run_full_16
       rect:
         serializedVersion: 2
         x: 26
-        y: 82
+        y: 84
+        width: 13
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d56b57f55b9d8ed80800000000000000
+      internalID: -8221081746750982563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword_Run_full_17
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 83
+        width: 12
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 620eb2d3d80b9a490800000000000000
+      internalID: -7734456764368953306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword_Run_full_18
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 83
         width: 12
         height: 24
       alignment: 7
@@ -461,19 +617,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: aa15ef69cc06ffd10800000000000000
-      internalID: 2161552777983971754
+      spriteID: 3937bd3bfc4935420800000000000000
+      internalID: 2617599428229034899
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Sword_Walk_full_13
+      name: Sword_Run_full_19
       rect:
         serializedVersion: 2
-        x: 90
-        y: 83
-        width: 13
+        x: 218
+        y: 84
+        width: 14
         height: 25
       alignment: 7
       pivot: {x: 0.5, y: 0}
@@ -483,19 +639,63 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 7f5dc77082b6cd0d0800000000000000
-      internalID: -3396722199275710985
+      spriteID: 962722f811c7dbe80800000000000000
+      internalID: -8161230534867783063
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Sword_Walk_full_14
+      name: Sword_Run_full_20
       rect:
         serializedVersion: 2
-        x: 154
+        x: 282
+        y: 83
+        width: 12
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d91f9a31ee1ff2c0800000000000000
+      internalID: -4395760758590334510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword_Run_full_21
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 82
+        width: 12
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0c450e91bad07050800000000000000
+      internalID: 5796373176821042186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword_Run_full_22
+      rect:
+        serializedVersion: 2
+        x: 410
         y: 84
-        width: 15
+        width: 12
         height: 23
       alignment: 7
       pivot: {x: 0.5, y: 0}
@@ -505,18 +705,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 568551ef17ca194d0800000000000000
-      internalID: -3129530660451690395
+      spriteID: e17e9ddb060d63f00800000000000000
+      internalID: 1096292673231906590
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Sword_Walk_full_15
+      name: Sword_Run_full_23
       rect:
         serializedVersion: 2
-        x: 218
-        y: 83
+        x: 474
+        y: 86
         width: 14
         height: 23
       alignment: 7
@@ -527,62 +727,40 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 062d7755cc07d0680800000000000000
-      internalID: -8787243275020414368
+      spriteID: b342512b9392b23b0800000000000000
+      internalID: -5536285989144288197
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Sword_Walk_full_16
-      rect:
-        serializedVersion: 2
-        x: 282
-        y: 82
-        width: 13
-        height: 25
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 844fcf15ce852aec0800000000000000
-      internalID: -3557182983658212280
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Sword_Walk_full_17
-      rect:
-        serializedVersion: 2
-        x: 346
-        y: 83
-        width: 13
-        height: 25
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: fa142270f4b4345e0800000000000000
-      internalID: -1926613412790255185
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Sword_Walk_full_18
+      name: Sword_Run_full_24
       rect:
         serializedVersion: 2
         x: 25
-        y: 19
+        y: 22
+        width: 17
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad4bc3642a4bfde10800000000000000
+      internalID: 2224695350000399578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword_Run_full_25
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 20
         width: 17
         height: 23
       alignment: 7
@@ -593,19 +771,41 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 16fc7c6892f702bf0800000000000000
-      internalID: -351140954603270303
+      spriteID: 669a7c4ef0c8366f0800000000000000
+      internalID: -692555917794236058
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Sword_Walk_full_19
+      name: Sword_Run_full_26
       rect:
         serializedVersion: 2
-        x: 89
-        y: 20
-        width: 18
+        x: 152
+        y: 18
+        width: 16
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ab23c5ef94a04fe0800000000000000
+      internalID: -1206783693473764446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword_Run_full_27
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 19
+        width: 16
         height: 24
       alignment: 7
       pivot: {x: 0.5, y: 0}
@@ -615,41 +815,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b2346ecb3445fc570800000000000000
-      internalID: 8489096472525423403
+      spriteID: dd8e7ba47dae83ea0800000000000000
+      internalID: -5892701902021859107
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Sword_Walk_full_20
+      name: Sword_Run_full_28
       rect:
         serializedVersion: 2
-        x: 153
-        y: 19
-        width: 18
-        height: 24
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 73296bfe251553850800000000000000
-      internalID: 6356075865754210871
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Sword_Walk_full_21
-      rect:
-        serializedVersion: 2
-        x: 218
-        y: 19
-        width: 18
+        x: 279
+        y: 21
+        width: 17
         height: 23
       alignment: 7
       pivot: {x: 0.5, y: 0}
@@ -659,39 +837,17 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 3910d3d225f439460800000000000000
-      internalID: 7247223439734145427
+      spriteID: f3e8d2da615fde750800000000000000
+      internalID: 6335989728523685439
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Sword_Walk_full_22
+      name: Sword_Run_full_29
       rect:
         serializedVersion: 2
-        x: 282
-        y: 20
-        width: 18
-        height: 24
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 6a5b4a1396aadd450800000000000000
-      internalID: 6115231237820167590
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Sword_Walk_full_23
-      rect:
-        serializedVersion: 2
-        x: 346
+        x: 345
         y: 19
         width: 17
         height: 24
@@ -703,8 +859,52 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: fd4e3f0b9fe095c20800000000000000
-      internalID: 3195601876174496991
+      spriteID: 4aa8c448dd25fe3f0800000000000000
+      internalID: -869385091698357596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword_Run_full_30
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 18
+        width: 17
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ca7feb7cfbe8f9c0800000000000000
+      internalID: -3893102408218215742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword_Run_full_31
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 20
+        width: 18
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3dce8c1f47a77f70800000000000000
+      internalID: 9184993923268791615
       vertices: []
       indices: 
       edges: []
@@ -713,7 +913,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: ef6e62ba510433848a0edc412ae20646
+    spriteID: f9bb3badb381d714dac835b174382f74
     internalID: 0
     vertices: []
     indices: 
@@ -725,30 +925,38 @@ TextureImporter:
       - key: SpriteEditor.SliceSettings
         value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.0},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":7,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
-      Sword_Walk_full_0: -3753571692780152623
-      Sword_Walk_full_1: 174744635857476160
-      Sword_Walk_full_10: -5019036444791416530
-      Sword_Walk_full_11: 2257747179698800594
-      Sword_Walk_full_12: 2161552777983971754
-      Sword_Walk_full_13: -3396722199275710985
-      Sword_Walk_full_14: -3129530660451690395
-      Sword_Walk_full_15: -8787243275020414368
-      Sword_Walk_full_16: -3557182983658212280
-      Sword_Walk_full_17: -1926613412790255185
-      Sword_Walk_full_18: -351140954603270303
-      Sword_Walk_full_19: 8489096472525423403
-      Sword_Walk_full_2: 339361470264715312
-      Sword_Walk_full_20: 6356075865754210871
-      Sword_Walk_full_21: 7247223439734145427
-      Sword_Walk_full_22: 6115231237820167590
-      Sword_Walk_full_23: 3195601876174496991
-      Sword_Walk_full_3: -4496459094149819902
-      Sword_Walk_full_4: 6127571963063765637
-      Sword_Walk_full_5: -8640647181836074670
-      Sword_Walk_full_6: -3160287381127770087
-      Sword_Walk_full_7: -1265255348948229123
-      Sword_Walk_full_8: 1876094137375402060
-      Sword_Walk_full_9: -8597557867071635585
+      Sword_Run_full_0: 9115605762361566855
+      Sword_Run_full_1: -6173353920823168819
+      Sword_Run_full_10: 3751213979948485901
+      Sword_Run_full_11: 8051616686044181645
+      Sword_Run_full_12: 4652296503083377406
+      Sword_Run_full_13: -125529731464440744
+      Sword_Run_full_14: -3311222855801231915
+      Sword_Run_full_15: -1433125498964836916
+      Sword_Run_full_16: -8221081746750982563
+      Sword_Run_full_17: -7734456764368953306
+      Sword_Run_full_18: 2617599428229034899
+      Sword_Run_full_19: -8161230534867783063
+      Sword_Run_full_2: -8112950969915983394
+      Sword_Run_full_20: -4395760758590334510
+      Sword_Run_full_21: 5796373176821042186
+      Sword_Run_full_22: 1096292673231906590
+      Sword_Run_full_23: -5536285989144288197
+      Sword_Run_full_24: 2224695350000399578
+      Sword_Run_full_25: -692555917794236058
+      Sword_Run_full_26: -1206783693473764446
+      Sword_Run_full_27: -5892701902021859107
+      Sword_Run_full_28: 6335989728523685439
+      Sword_Run_full_29: -869385091698357596
+      Sword_Run_full_3: 960495837419604047
+      Sword_Run_full_30: -3893102408218215742
+      Sword_Run_full_31: 9184993923268791615
+      Sword_Run_full_4: 439155344071214752
+      Sword_Run_full_5: -9112270784880746051
+      Sword_Run_full_6: -9182051909758612434
+      Sword_Run_full_7: 2334066188345651562
+      Sword_Run_full_8: 5812720159088080610
+      Sword_Run_full_9: 5535760694211273764
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

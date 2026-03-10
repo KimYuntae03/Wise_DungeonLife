@@ -209,12 +209,12 @@ TextureImporter:
       name: Unarmed_Run_full_0
       rect:
         serializedVersion: 2
-        x: 23
-        y: 211
-        width: 16
-        height: 25
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 24
+        y: 212
+        width: 14
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -231,12 +231,12 @@ TextureImporter:
       name: Unarmed_Run_full_1
       rect:
         serializedVersion: 2
-        x: 87
-        y: 211
-        width: 15
-        height: 21
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 88
+        y: 212
+        width: 13
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -253,12 +253,12 @@ TextureImporter:
       name: Unarmed_Run_full_2
       rect:
         serializedVersion: 2
-        x: 151
-        y: 211
-        width: 16
-        height: 25
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 152
+        y: 212
+        width: 14
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -275,12 +275,12 @@ TextureImporter:
       name: Unarmed_Run_full_3
       rect:
         serializedVersion: 2
-        x: 216
-        y: 214
-        width: 17
-        height: 23
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 217
+        y: 215
+        width: 15
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -297,12 +297,12 @@ TextureImporter:
       name: Unarmed_Run_full_4
       rect:
         serializedVersion: 2
-        x: 280
-        y: 211
-        width: 16
-        height: 25
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 281
+        y: 212
+        width: 14
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -319,12 +319,12 @@ TextureImporter:
       name: Unarmed_Run_full_5
       rect:
         serializedVersion: 2
-        x: 345
-        y: 211
-        width: 15
-        height: 21
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 346
+        y: 212
+        width: 13
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -341,12 +341,12 @@ TextureImporter:
       name: Unarmed_Run_full_6
       rect:
         serializedVersion: 2
-        x: 408
-        y: 211
-        width: 16
-        height: 25
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 409
+        y: 212
+        width: 14
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -363,12 +363,12 @@ TextureImporter:
       name: Unarmed_Run_full_7
       rect:
         serializedVersion: 2
-        x: 470
-        y: 214
-        width: 17
-        height: 23
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 471
+        y: 215
+        width: 15
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -385,12 +385,12 @@ TextureImporter:
       name: Unarmed_Run_full_8
       rect:
         serializedVersion: 2
-        x: 24
-        y: 147
-        width: 16
-        height: 25
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 25
+        y: 148
+        width: 14
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -407,12 +407,12 @@ TextureImporter:
       name: Unarmed_Run_full_9
       rect:
         serializedVersion: 2
-        x: 89
-        y: 147
-        width: 14
-        height: 21
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 90
+        y: 148
+        width: 12
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -429,12 +429,12 @@ TextureImporter:
       name: Unarmed_Run_full_10
       rect:
         serializedVersion: 2
-        x: 153
-        y: 147
-        width: 14
-        height: 25
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 154
+        y: 148
+        width: 12
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -451,12 +451,12 @@ TextureImporter:
       name: Unarmed_Run_full_11
       rect:
         serializedVersion: 2
-        x: 215
-        y: 149
-        width: 16
-        height: 25
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 216
+        y: 150
+        width: 14
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -473,12 +473,12 @@ TextureImporter:
       name: Unarmed_Run_full_12
       rect:
         serializedVersion: 2
-        x: 281
-        y: 147
-        width: 14
-        height: 25
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 282
+        y: 148
+        width: 12
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -495,12 +495,12 @@ TextureImporter:
       name: Unarmed_Run_full_13
       rect:
         serializedVersion: 2
-        x: 345
-        y: 147
-        width: 14
-        height: 21
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 346
+        y: 148
+        width: 12
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -517,12 +517,12 @@ TextureImporter:
       name: Unarmed_Run_full_14
       rect:
         serializedVersion: 2
-        x: 409
-        y: 147
-        width: 14
-        height: 25
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 410
+        y: 148
+        width: 12
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -539,12 +539,12 @@ TextureImporter:
       name: Unarmed_Run_full_15
       rect:
         serializedVersion: 2
-        x: 471
-        y: 149
-        width: 17
-        height: 25
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 472
+        y: 150
+        width: 15
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -561,12 +561,12 @@ TextureImporter:
       name: Unarmed_Run_full_16
       rect:
         serializedVersion: 2
-        x: 24
-        y: 83
-        width: 16
-        height: 25
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 25
+        y: 84
+        width: 14
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -583,12 +583,12 @@ TextureImporter:
       name: Unarmed_Run_full_17
       rect:
         serializedVersion: 2
-        x: 89
-        y: 83
-        width: 14
-        height: 21
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 90
+        y: 84
+        width: 12
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -605,12 +605,12 @@ TextureImporter:
       name: Unarmed_Run_full_18
       rect:
         serializedVersion: 2
-        x: 153
-        y: 83
-        width: 14
-        height: 25
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 154
+        y: 84
+        width: 12
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -627,12 +627,12 @@ TextureImporter:
       name: Unarmed_Run_full_19
       rect:
         serializedVersion: 2
-        x: 217
-        y: 85
-        width: 16
-        height: 25
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 218
+        y: 86
+        width: 14
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -649,12 +649,12 @@ TextureImporter:
       name: Unarmed_Run_full_20
       rect:
         serializedVersion: 2
-        x: 281
-        y: 83
-        width: 14
-        height: 25
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 282
+        y: 84
+        width: 12
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -671,12 +671,12 @@ TextureImporter:
       name: Unarmed_Run_full_21
       rect:
         serializedVersion: 2
-        x: 345
-        y: 83
-        width: 14
-        height: 21
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 346
+        y: 84
+        width: 12
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -693,12 +693,12 @@ TextureImporter:
       name: Unarmed_Run_full_22
       rect:
         serializedVersion: 2
-        x: 409
-        y: 83
-        width: 14
-        height: 25
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 410
+        y: 84
+        width: 12
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -715,12 +715,12 @@ TextureImporter:
       name: Unarmed_Run_full_23
       rect:
         serializedVersion: 2
-        x: 472
-        y: 85
-        width: 17
-        height: 25
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 473
+        y: 86
+        width: 15
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -737,12 +737,12 @@ TextureImporter:
       name: Unarmed_Run_full_24
       rect:
         serializedVersion: 2
-        x: 24
-        y: 22
-        width: 17
-        height: 23
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 25
+        y: 23
+        width: 15
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -759,12 +759,12 @@ TextureImporter:
       name: Unarmed_Run_full_25
       rect:
         serializedVersion: 2
-        x: 87
-        y: 19
-        width: 16
-        height: 25
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 88
+        y: 20
+        width: 14
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -781,12 +781,12 @@ TextureImporter:
       name: Unarmed_Run_full_26
       rect:
         serializedVersion: 2
-        x: 151
-        y: 19
-        width: 15
-        height: 21
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 152
+        y: 20
+        width: 13
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -803,12 +803,12 @@ TextureImporter:
       name: Unarmed_Run_full_27
       rect:
         serializedVersion: 2
-        x: 216
-        y: 19
-        width: 15
-        height: 25
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 217
+        y: 20
+        width: 13
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -825,12 +825,12 @@ TextureImporter:
       name: Unarmed_Run_full_28
       rect:
         serializedVersion: 2
-        x: 278
-        y: 22
-        width: 17
-        height: 23
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 279
+        y: 23
+        width: 15
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -847,12 +847,12 @@ TextureImporter:
       name: Unarmed_Run_full_29
       rect:
         serializedVersion: 2
-        x: 344
-        y: 19
-        width: 16
-        height: 25
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 345
+        y: 20
+        width: 14
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -869,12 +869,12 @@ TextureImporter:
       name: Unarmed_Run_full_30
       rect:
         serializedVersion: 2
-        x: 409
-        y: 19
-        width: 15
-        height: 21
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 410
+        y: 20
+        width: 13
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -891,12 +891,12 @@ TextureImporter:
       name: Unarmed_Run_full_31
       rect:
         serializedVersion: 2
-        x: 472
-        y: 19
-        width: 15
-        height: 25
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 473
+        y: 20
+        width: 13
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -913,7 +913,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 9ca2bef478ffafe48bf4a61b9d705275
     internalID: 0
     vertices: []
     indices: 
@@ -921,7 +921,9 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries: []
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.0},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":7,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
       Unarmed_Run_full_0: 3254134716894865524
       Unarmed_Run_full_1: -8622496400494327353
