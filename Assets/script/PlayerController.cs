@@ -34,7 +34,7 @@ public class PlayerController : MonoBehaviour
             anim.SetBool("isSword", isSwordEquipped); // 애니메이터 파라미터 업데이트
         }
 
-        if (Input.GetKeyDown(KeyCode.A) && isSwordEquipped) //공격
+        if (Input.GetKeyDown(KeyCode.Z) && isSwordEquipped) //공격
         {
             anim.SetTrigger("doAttack");
         }
@@ -64,5 +64,12 @@ public class PlayerController : MonoBehaviour
         //키보드 입력값 계속 받아서 위치 업데이트
         Vector2 nextVec = inputVec.normalized * currentSpeed * Time.fixedDeltaTime;
         rigid.MovePosition(rigid.position + nextVec);
+
+        if (anim.GetCurrentAnimatorStateInfo(0).IsName("Sword_Attack"))//공격중이면
+        {
+            // 공격 중일 때는 이동 정지
+            rigid.linearVelocity = Vector2.zero; 
+            return;
+        }
     }
 }
