@@ -4,10 +4,11 @@ using Unity.Cinemachine;
 public class PlayerController : MonoBehaviour
 {
     public Vector2 inputVec;
+    public Vector2 lastInputVec;//마지막으로 입력한 방향값 저장
     public float speed;
     public float runSpeed;
     bool isSwordEquipped = false;//칼 장착상태 여부 체크
-
+    
     Rigidbody2D rigid;
     Animator anim;
     float currentSpeed;
@@ -34,12 +35,6 @@ public class PlayerController : MonoBehaviour
             anim.SetBool("isSword", isSwordEquipped); // 애니메이터 파라미터 업데이트
         }
 
-        if (Input.GetKeyDown(KeyCode.Z) && isSwordEquipped) //공격
-        {
-            anim.SetTrigger("doAttack");
-        }
-
-
         inputVec.x = Input.GetAxisRaw("Horizontal");
         inputVec.y = Input.GetAxisRaw("Vertical");
 
@@ -53,6 +48,9 @@ public class PlayerController : MonoBehaviour
         anim.SetFloat("Speed", animSpeed);
 
         if (inputVec.magnitude != 0){
+
+            lastInputVec = inputVec.normalized;
+            
             //입력값에 따른 애니메이터 파라미터 업데이트
             anim.SetFloat("InputX", inputVec.x);
             anim.SetFloat("InputY", inputVec.y);
