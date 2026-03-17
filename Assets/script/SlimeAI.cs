@@ -104,7 +104,6 @@ public class SlimeAI : MonoBehaviour
         
         // 이동/공격 멈춤
         _anim.SetBool("isMoving", false);
-        _anim.SetBool("isAttacking", false);
 
         // 죽은 후 1.5초 뒤에 오브젝트를 게임에서 완전히 삭제
         Destroy(gameObject, 1.5f); 
@@ -113,7 +112,6 @@ public class SlimeAI : MonoBehaviour
     void Chase()
     {
         _anim.SetBool("isMoving", true);
-        _anim.SetBool("isAttacking", false);
         transform.position = Vector2.MoveTowards(transform.position, _player.position, moveSpeed * Time.deltaTime);
 
         if (_player.position.x < transform.position.x)

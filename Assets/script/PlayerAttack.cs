@@ -38,8 +38,6 @@ public class PlayerAttack : MonoBehaviour
 
         foreach (Collider2D obj in hitEnemies)
         {   
-            if (!obj.CompareTag("Monster")) continue;
-
             //피격범위 안에 있는지 확인
             Vector2 dirToEnemy = (obj.transform.position - transform.position).normalized;
             float angle = Vector2.Angle(lookDir, dirToEnemy);
@@ -47,8 +45,32 @@ public class PlayerAttack : MonoBehaviour
             if (angle <= attackAngle * 0.5f)
             {
                 Debug.Log($"{obj.name} 명중!");
-                //앞으로 여기에 피격시 데미지 적용 코드 추가할거임
+
+                //SlimeAI를 가진 오브젝트를 가져옴
+                SlimeAI slime = obj.GetComponent<SlimeAI>(); 
+                if (slime != null)
+                {
+                    slime.TakeDamage(damage);
+                }
             }
         }
+    }
+
+    private void OnDrawGizmosSelected()//피격범위 시각화
+    {
+        Gizmos.color = Color.blue;
+        // 전체 원 범위 표시
+        Gizmos.DrawWireSphere(transform.position, attackRange);
+
+        // 바라보는 방향을 기준으로 부채꼴의 양 끝 선 그리기
+        Vector2 lookDir = (Application.isPlaying && playerController != null) ? 
+            (playerController.inputVec.magnitude > 0 ? playerController.inputVec.normalized : playerController.lastInputVec) : 
+            Vector2.up;
+
+        Vector3 leftBoundary = Quaternion.Euler(0, 0, -attackAngle * 0.5f) * lookDir;
+        Vector3 rightBoundary = Quaternion.Euler(0, 0, attackAngle * 0.5f) * lookDir;
+
+        Gizmos.DrawLine(transform.position, transform.position + leftBoundary * attackRange);
+        Gizmos.DrawLine(transform.position, transform.position + rightBoundary * attackRange);
     }
 }
