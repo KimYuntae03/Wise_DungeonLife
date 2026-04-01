@@ -33,7 +33,10 @@ public class Merchant : MonoBehaviour
         if (other.CompareTag("Player"))
         {
             isPlayerNearby = false;
-            shopUI.SetActive(false); // 멀어지면 상점 닫기
+            if (shopUI != null)
+            {
+                shopUI.SetActive(false);
+            }
         }
     }
 }
