@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 405d1c38416e12443888da2d91d1915e
+guid: c366fdf0995d89b4a94694f702f04146
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -3849272886993757503
-    second: Gemini_Generated_Image_8grxgc8grxgc8grx_0
+      213: -7052913442509953211
+    second: "\uBC30\uACBD_0"
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -113,23 +113,45 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Gemini_Generated_Image_8grxgc8grxgc8grx_0
+      name: "\uBC30\uACBD_0"
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 2816
-        height: 1536
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
+        x: 1284
+        y: 626
+        width: 81
+        height: 93
+      alignment: 9
+      pivot: {x: 0.47083843, y: 0.5}
+      border: {x: 4, y: 1, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 1cad13f14b2a49ac0800000000000000
-      internalID: -3849272886993757503
+      spriteID: 547ed9b87940f1e90800000000000000
+      internalID: -7052913442509953211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\uBC30\uACBD_1"
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 298
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 551d7e8b1bc069245aaf4f5a833a5dbe
+      internalID: -10899911
       vertices: []
       indices: 
       edges: []
@@ -138,7 +160,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 3180b17f1d1a15c45b164ef1681b3919
     internalID: 0
     vertices: []
     indices: 
@@ -148,7 +170,8 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Gemini_Generated_Image_8grxgc8grxgc8grx_0: -3849272886993757503
+      "\uBC30\uACBD_0": -7052913442509953211
+      "\uBC30\uACBD_1": -10899911
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

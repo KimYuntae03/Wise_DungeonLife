@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 52df14449d492ad45b0a2a8d7b1282ec, type: 3}
+  m_Name: Test_Armor
+  m_EditorClassIdentifier: Assembly-CSharp::ItemData
+  itemName: Test_Armor
+  icon: {fileID: 1013099012324604318, guid: 63ef588e6b0d17a44badc061b12c442c, type: 3}
+  isStackable: 0
+  description: "\uBB34\uB824 \uB2E4\uC774\uC544 \uCC98\uB7FC \uBCF4\uC774\uB294 \uAC11\uC637\uC774\uB2E4
+    \n\uD2BC\uD2BC\uB370\uC2A4"
